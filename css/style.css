@@ -82,7 +82,7 @@ p{
     margin-right: 25px;
 }
 
-#footer{
+/* #footer{
     align-items: left;
     padding: 15px;
     color: #000000;
@@ -92,11 +92,41 @@ p{
     width: 100%;
     z-index: 9999;
     transition: .3s;
+} */
+
+#footer{
+    padding: 15px;
+    color: #000;
+    font-size: 14px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    align-items: center;
+    transition: .3s;
 }
 
-.linha{
-    background-color: #fff;
-    width: 90%;
-    height: 10px;
-    border-radius: 1%;
+#footer4{
+    margin-top: 86px;
+    margin-right:980px;
+    margin-left: 0;
+    padding: 15px;
+    color: #000;
+    font-size: 14px;
+    left: 0;
+    bottom: 0;
+    align-items: center;
+    transition: .3s;
+}
+
+#footer5{
+    margin-top: 15px;
+    margin-right:980px;
+    margin-left: 0;
+    padding: 15px;
+    color: #000;
+    font-size: 14px;
+    left: 0;
+    bottom: 0;
+    align-items: center;
+    transition: .3s;
 }
